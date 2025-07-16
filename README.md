@@ -1,1 +1,1 @@
-THis is an analysis of startups and hoe they are funded in dollars. The KNN A lgorith is used to determine the funding round of each startup in various industries. Decison Tree is used to determine the exist status of each startup which has a moderate accuracy of up to 50%.
+This is an analysis of startups and how they are funded in dollars. The KNN A lgorith is used to determine the funding round of each startup in various industries. Decison Tree is used to determine the exist status of each startup which has a moderate accuracy of up to 50%.
